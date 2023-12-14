@@ -1472,7 +1472,6 @@ hr {
   padding: 0 50px;
   position: fixed;
   left: 0;
-  top: 40px;
   width: 100%;
   z-index: 90;
   transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
@@ -1598,7 +1597,7 @@ hr {
 }
 
 .logo-image img {
-  max-width: 129px;
+  max-width: 12rem;
 }
 
 .no-scroll.dark-first .header .header__builder .logo-image img {
