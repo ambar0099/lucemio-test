@@ -13,7 +13,7 @@ const Blog = () => {
                 {/* titles */}
                 <div className="h-titles">
                   <div
-                    className="h-subtitle red splitting-text-anim-1 scroll-animate"
+                    className="h-subtitle splitting-text-anim-1 scroll-animate"
                     data-splitting="chars"
                     data-animate="active"
                   >

@@ -15,7 +15,7 @@ const WorkSingle = () => {
                 {/* titles */}
                 <div className="h-titles">
                   <div
-                    className="h-subtitle red splitting-text-anim-1 scroll-animate"
+                    className="h-subtitle splitting-text-anim-1 scroll-animate"
                     data-splitting="chars"
                     data-animate="active"
                   >
@@ -42,7 +42,7 @@ const WorkSingle = () => {
           <div className="image">
             <div
               className="img js-parallax"
-              style={{ backgroundImage: "url(assets/images/started_new.jpg)" }}
+              style={{ backgroundImage: "url(assets/images/inner_1.png)" }}
             />
           </div>
         </div>
@@ -97,7 +97,7 @@ const WorkSingle = () => {
                         data-splitting="chars"
                         data-animate="active"
                       >
-                        Design Startups
+                        Designing
                       </span>
                     </a>
                   </Link>

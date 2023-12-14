@@ -21,7 +21,7 @@ const Contacts = () => {
           <div className="image">
             <div
               className="img js-parallax"
-              style={{ backgroundImage: "url(assets/images/contact.jpg)" }}
+              style={{ backgroundImage: "url(assets/images/contacts.jpg)" }}
             />
           </div>
         </div>
@@ -51,6 +51,7 @@ const Contacts = () => {
                           type="text"
                           name="name"
                           placeholder="Full Name"
+                          required
                         />
                       </div>
                     </div>
@@ -76,6 +77,7 @@ const Contacts = () => {
                           name="message"
                           placeholder="Message"
                           defaultValue={""}
+                          required
                         />
                       </div>
                     </div>
@@ -134,7 +136,7 @@ const Contacts = () => {
                         />
                       </div>
                       <div className="name">Location:</div>
-                      <div className="text">
+                      <div className="text" style={{width: '11rem'}}>
                         New Haven County, CT, <br />
                         United States
                       </div>

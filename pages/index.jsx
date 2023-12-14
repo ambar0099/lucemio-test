@@ -15,7 +15,7 @@ const Index = () => {
             <div
               className="slide"
               style={{
-                backgroundImage: "url(assets/images/started-n26-1920x1080.jpg)",
+                backgroundImage: "url(assets/images/slide_1.png)",
               }}
             />
             {/* slide titles */}
@@ -58,7 +58,7 @@ const Index = () => {
             <div
               className="slide"
               style={{
-                backgroundImage: "url(assets/images/started-n15-1920x1080.jpg)",
+                backgroundImage: "url(assets/images/slide_2.png)",
               }}
             />
             {/* slide titles */}
@@ -102,7 +102,7 @@ const Index = () => {
               className="slide"
               style={{
                 backgroundImage:
-                  "url(assets/images/started-n2_4-1920x1080.jpg)",
+                  "url(assets/images/slide_3.png)",
               }}
             />
             {/* slide titles */}
@@ -145,8 +145,7 @@ const Index = () => {
             <div
               className="slide"
               style={{
-                backgroundImage:
-                  "url(assets/images/started-n14_1-1000x1080.jpg)",
+                backgroundImage: "url(assets/images/slide_4.png)",
               }}
             />
             {/* slide titles */}
@@ -190,7 +189,7 @@ const Index = () => {
               className="slide"
               style={{
                 backgroundImage:
-                  "url(assets/images/started-n14_1-1000x1080.jpg)",
+                  "url(assets/images/slide_5.png)",
               }}
             />
             {/* slide titles */}
@@ -236,7 +235,7 @@ const Index = () => {
               className="slide"
               style={{
                 backgroundImage:
-                  "url(assets/images/started-n14_1-1000x1080.jpg)",
+                  "url(assets/images/slide_2.png)",
               }}
             />
             {/* slide titles */}
@@ -244,7 +243,7 @@ const Index = () => {
               <div className="row">
                 <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                   {/* title */}
-                  <div className="titles">
+                  <div className="titles`">
                     <div className="label scrolla-element-anim-1">REMOTE & ON-DEMAND</div>
                     <div className="title">
                       <span

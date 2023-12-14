@@ -34,7 +34,7 @@ const About = () => {
           <div className="image">
             <div
               className="img js-parallax"
-              style={{ backgroundImage: "url(assets/images/about2.jpg)" }}
+              style={{ backgroundImage: "url(assets/images/team.jpg)" }}
             />
           </div>
         </div>
@@ -67,7 +67,7 @@ const About = () => {
                       data-animate="active"
                     >
                       <div className="desc">
-                        <div className="title">Cosme</div>
+                        <div className="title">Cosme J</div>
                         <div className="name">Founder, CPO</div>
                         <div className="text">
                           Our self-funded founder is responsible for all aspects of our startup projects from ideation to business model generation to managing our developers to achieve our product vision.
